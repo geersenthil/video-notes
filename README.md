@@ -1,1 +1,1 @@
-Here is a link to my DevPost of this project https://devpost.com/software/time-sensitive-video-notes
+Please check out the Devpost link for this project https://devpost.com/software/time-sensitive-video-notes
